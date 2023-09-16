@@ -10,6 +10,7 @@
 5. [Directory Structure](#directory-structure)
 6. [Getting Started](#getting-started)
 7. [Contributors](#contributors)
+8. [SQL Parser](#sql-parser)
 
 ## Introduction
 Welcome to the Database Engine with Octree Indices project! This project is designed to showcase a small database engine with support for Octree Indices. It's built as part of the CSEN604: Database II course at the German University in Cairo.
@@ -49,6 +50,12 @@ In this project, we've implemented a simplified database engine with Octree Inde
 2. Import the project into your preferred Java IDE (Eclipse, IntelliJ, or NetBeans).
 3. Run the project.
 
+## SQL Parser
+We've developed an SQL parser using ANTLR, which adds SQL query support to the database engine. The SQL parser supports the following SQL operations:
+- "INSERT"
+- "DELETE"
+- "SELECT"
+
 ## Contributors
 - [Ahmed Labib] (https://github.com/ahmedlabib02)
 - [Omar elKord] (https://github.com/omarelkord)
@@ -56,3 +63,6 @@ In this project, we've implemented a simplified database engine with Octree Inde
 - [Sara elShafie] (https://github.com/saraelshafie)
 - [Menna Mohamed] (https://github.com/mennamohamed13)
 
+Feel free to explore and use this database engine for your projects. If you have any questions, please refer to the project documentation.
+
+Happy coding!
