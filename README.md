@@ -30,7 +30,6 @@ In this project, we've implemented a simplified database engine with Octree Inde
 - Octree indices are used to improve query performance.
 - Indices are created on-demand and updated when new data is added or removed.
 - They are saved to disk and loaded during application startup.
-- Indices are used to speed up query execution.
 
 ## How to Use
 1. Initialize the database engine using the `init()` method.
@@ -51,7 +50,7 @@ In this project, we've implemented a simplified database engine with Octree Inde
 3. Run the project.
 
 ## SQL Parser
-We've developed an SQL parser using ANTLR, which adds SQL query support to the database engine. The SQL parser supports the following SQL operations:
+We've also developed an SQL parser using ANTLR, which adds SQL query support to the database engine. The SQL parser supports the following SQL operations:
 - "INSERT"
 - "DELETE"
 - "SELECT"
@@ -63,6 +62,4 @@ We've developed an SQL parser using ANTLR, which adds SQL query support to the d
 - [Sara elShafie] (https://github.com/saraelshafie)
 - [Menna Mohamed] (https://github.com/mennamohamed13)
 
-Feel free to explore and use this database engine for your projects. If you have any questions, please refer to the project documentation.
 
-Happy coding!
