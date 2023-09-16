@@ -1,5 +1,16 @@
 # Database Engine with Octree Indices
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Overview](#overview)
+3. [Project Description](#project-description)
+   - 3.1 [Tables](#tables)
+   - 3.2 [Indices](#indices)
+4. [How to Use](#how-to-use)
+5. [Directory Structure](#directory-structure)
+6. [Getting Started](#getting-started)
+7. [Contributors](#contributors)
+
 ## Introduction
 Welcome to the Database Engine with Octree Indices project! This project is designed to showcase a small database engine with support for Octree Indices. It's built as part of the CSEN604: Database II course at the German University in Cairo.
 
@@ -45,6 +56,3 @@ In this project, we've implemented a simplified database engine with Octree Inde
 - [Sara elShafie] (https://github.com/saraelshafie)
 - [Menna Mohamed] (https://github.com/mennamohamed13)
 
-Feel free to explore and use this database engine for your projects. If you have any questions, please refer to the project documentation.
-
-Happy coding!
