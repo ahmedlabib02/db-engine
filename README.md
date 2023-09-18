@@ -56,10 +56,11 @@ We've also developed an SQL parser using ANTLR, which adds SQL query support to 
 - "SELECT"
 
 ## Contributors
-- [Ahmed Labib] (https://github.com/ahmedlabib02)
-- [Omar elKord] (https://github.com/omarelkord)
-- [Malak Labib] (https://github.com/malakklabib)
-- [Sara elShafie] (https://github.com/saraelshafie)
-- [Menna Mohamed] (https://github.com/mennamohamed13)
+- [Ahmed Labib](https://github.com/ahmedlabib02)
+- [Omar elKord](https://github.com/omarelkord)
+- [Malak Labib](https://github.com/malakklabib)
+- [Sara elShafie](https://github.com/saraelshafie)
+- [Menna Mohamed](https://github.com/mennamohamed13)
+
 
 
